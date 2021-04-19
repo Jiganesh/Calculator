@@ -1,1 +1,0 @@
-web: waitress-serve --port=$8000 Calculator.wsgi:application

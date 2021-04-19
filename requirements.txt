@@ -1,6 +1,0 @@
-Django==3.2
-asgiref==3.3.4
-pytz==2020.1
-sqlparse==0.4.1
-waitress==1.4.4
-whitenoise==5.2.0
