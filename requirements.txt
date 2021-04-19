@@ -1,0 +1,4 @@
+Django==3.2
+asgiref==3.3.4
+google-auth==1.21.0
+google-auth-oauthlib==0.4.1
