@@ -4,4 +4,3 @@ pytz==2020.1
 sqlparse==0.4.1
 waitress==1.4.4
 whitenoise==5.2.0
-python==3.7
