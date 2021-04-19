@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-(s)(w2)&-s2myv4d6x62mzhtcnaxv_1fhowi95@jvi66ou-z^1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["jiganesh-basic-calculator.herokuapp.com","localhost"]
 
 
 # Application definition
