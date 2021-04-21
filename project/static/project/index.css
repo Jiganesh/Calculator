@@ -36,7 +36,7 @@
     background-color: #bd94ff;
     border-radius: 10px;
     border-color: black;
-    display: block;
+    display: inline;
     box-shadow: 
     12px 12px 16px 0 rgba(0, 0, 0, 0.25),
     -8px -8px 12px 0 rgba(255, 255, 255, 0.3);
@@ -72,7 +72,10 @@
 
 .submit-button{
 
-  border-radius: 20px;
+  border-radius: 10px;
+  border-color: black;
+  height: 50px;
+  width: 80px;
   background-color: #bd94ff;
   box-shadow: 
     12px 12px 16px 0 rgba(0, 0, 0, 0.25),
