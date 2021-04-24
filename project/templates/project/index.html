@@ -45,18 +45,17 @@
 
           <div class ="align-text-p">
             <ul>
-				<li>Just write the expression and the Calculator will give you correct answer below</li>
-				<li style="padding:30px 0px 0px 0px">To get your Result provide valid expressions</li>
-			</ul>
+              <li>Just write the expression and the Calculator will give you correct answer below</li>
+              <li style="padding:30px 0px 0px 0px">To get your Result provide valid expressions</li>
+		      	</ul>
           </div>
 
-        	<input type="text" class="mb-2 input-box"  name="SentCalculation" placeholder="{{Sentexpression}}"/>
-
-          <button type="submit" class="submit-button">Submit</button>
-
-			<div class="output">{{answer}}</div>
-		  	
-
+          <div>
+            <input type="text" class="mb-2 input-box" id="inlineFormInput" name="SentCalculation" placeholder="{{Sentexpression}}"/>
+            <button type ="submit" class ="submit-button"> Submit</button>
+            <div class="mb-2 output" id="inlineFormInput">{{answer}}</div>
+          </div>
+      
         </div>
 
       </form>
