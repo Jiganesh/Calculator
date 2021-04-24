@@ -5,7 +5,7 @@
   border-radius: 40px;
   display: flex;
   height: 500px;
-   justify-content: flex-start; 
+  justify-content: flex-start; 
   width: 500px;
 }
 
@@ -56,8 +56,13 @@
 }
 
 .submit-button {
+  border-color: black;
   border-radius: 10px;
-  background-color: #443361;
-  box-shadow: 12px 12px 16px 0 rgba(0, 0, 0, 0.25), -8px -8px 12px 0 rgba(255, 255, 255, 0.3);
-  
+  height: 50px;
+  width: 80px;
+  background-color: #bd94ff;
+  box-shadow: 
+    12px 12px 16px 0 rgba(0, 0, 0, 0.25),
+    -8px -8px 12px 0 rgba(255, 255, 255, 0.3);  
 }
+  
